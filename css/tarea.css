@@ -1,0 +1,89 @@
+body{
+    height: 600px;
+    
+    background-image: url("https://img.freepik.com/vector-premium/fondo-dibujos-animados-pizarra-matematicas_23-2148154590.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+
+h1{
+    color: rgb(229, 255, 0);
+}
+
+
+
+h2{
+    color:aqua;
+}
+
+h3{
+    color:darkorange
+}
+
+.fo{
+    font-size: 0.8rem;
+}
+
+.cuadrado{
+    color: aqua;
+    text-align: center;
+}
+
+.triangulo{
+    color: crimson;
+}
+
+.rombo{
+    color: darkgoldenrod;
+}
+
+.paralelogramo{
+    color: gold;
+}
+
+.trapecio{
+    color: coral;
+}
+
+.pentagono{
+    color: chartreuse;
+}
+
+.hexagono{
+    color: cornflowerblue;
+}
+
+.rectangulo{
+    color: deepskyblue;
+}
+
+.circulo{
+    color: rgb(0, 255, 115);
+}
+
+header{
+    text-transform:capitalize;
+    text-align: center;
+    color: rgb(252, 101, 0);
+    text-decoration:underline;
+    background-position: center center;
+	
+	background-size:cover;
+    
+}
+footer{
+    background-color: yellow;
+    text-align: center;
+    color: yellow;
+    text-decoration:underline;
+    background-position: center center;
+	background-image: url("https://img.freepik.com/vector-gratis/banner-negro-formas-geometricas-amarillas_1017-32327.jpg?w=2000");
+	background-size: cover;
+}
+
+p{
+    color:rgb(0, 0, 255)
+}
